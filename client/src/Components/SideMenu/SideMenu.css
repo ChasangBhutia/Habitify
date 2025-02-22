@@ -1,0 +1,9 @@
+.sideMenu{
+    flex: 0.4;
+}
+
+.navigationBtns button{
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+}
